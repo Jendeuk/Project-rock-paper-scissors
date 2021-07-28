@@ -16,7 +16,7 @@
                 return "tie!";
             }
             else if(computerSelection === 'paper'){
-                return "You lose!"; 
+                return "You lose!";  
             }
             else{
                 return "You win!";  
